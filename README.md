@@ -1,5 +1,8 @@
-### Oi para Todos!!! Eu sou o Gabriel Mahmoud
+### Oi para Todos!!! Eu sou o Gabriel Mahmoud, estudante cursando o 4° semestre de Análise e Desenvolvimento de Sistemas na FIAP e Técnico em Informática
 <div align="center">
+
+##
+<br>
   <a href="https://github.com/mahagab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahagab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahagab&layout=compact&langs_count=7&theme=cobalt"/>
@@ -10,7 +13,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Img-gab" height="150" style="border-radius:50px;" src="https://discord.com/channels/1020818755955204167/1020818755955204170/1020820255666360360/mamaco.png?width=676&height=676">
+  <img align="right"  alt="Img-gab" height="140" style="border-radius:200px;" src="https://github.com/mahagab/mahagab/blob/main/mamaco.png">
 </div>
   
   ##
