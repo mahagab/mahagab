@@ -1,7 +1,6 @@
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Henrique!;Programador+Front-End+;e+WordPress+Designer)](https://git.io/typing-svg)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Henrique!;Programador+Front-End;WordPress+Designer" alt="Typing SVG" /></a>
 <br>
   <a href="https://github.com/mahagab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahagab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -25,5 +24,9 @@
   <a href = "mailto:gabrielcardoso712@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mahagab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahagab/mahagab/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahagab/mahagab/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahagab/mahagab/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
