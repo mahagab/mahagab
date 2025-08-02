@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=6000&pause=1000&width=435&lines=Ol%C3%A1!+Sou+o+Gabriel+Mahmoud.;Programador+Full+Stack+Python+e+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5698F7&width=435&lines=Ol%C3%A1!+Sou+o+Gabriel+Mahmoud!;Programador+FullStack.)](https://git.io/typing-svg)
 
 <div align="center">
   <br>
